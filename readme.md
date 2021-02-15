@@ -1,9 +1,7 @@
 # Face-mask-detector-using-YOLO-v3-and-v4
 A face mask detector trained using YOLOv3 and YOLOv4
 
-For training details, check 'YOLOv3' and 'YOLOv4' folders.
-
-For image demos, check the 'image_demos' folder.
+For training details and image demos, check 'YOLOv3' and 'YOLOv4' folders.
 
 For video demos, check the following links:
 
