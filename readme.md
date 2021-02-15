@@ -7,7 +7,7 @@ For image demos, check the 'image_demos' folder.
 
 For video demos, check the following links:
 
-## Face mask detector by YOLOv3:
+## video demos by YOLOv3:
 
 https://youtu.be/-JZL3NsDUgE
 
@@ -15,7 +15,7 @@ https://youtu.be/jkLQ3H7Q478
 
 
 
-## Face mask detector by YOLOv4:
+## video demos by YOLOv4:
 
 https://youtu.be/cZEw-8MtZ04
 
