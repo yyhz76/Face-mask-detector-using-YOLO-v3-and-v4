@@ -3,6 +3,7 @@ A face mask detector trained using YOLOv3 and YOLOv4
 
 
 For image demos, check the notebooks uploaded.
+
 For video demos, check the following links:
 
 ## Face mask detector by YOLOv3:
