@@ -7,6 +7,7 @@ For video demos, check the following links:
 face mask detector by YOLOv3:
 
 https://youtu.be/-JZL3NsDUgE
+
 https://youtu.be/jkLQ3H7Q478
 
 face mask detector by YOLOv4:
