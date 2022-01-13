@@ -1,5 +1,6 @@
 # Face-mask-detector-using-YOLO-v3-and-v4
 A face mask detector trained using YOLOv3 and YOLOv4
+
 ![alt text](https://github.com/yyhz76/Face-mask-detector-using-YOLO-v3-and-v4/blob/main/demo.png)
 
 
