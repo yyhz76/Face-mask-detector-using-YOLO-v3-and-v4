@@ -20,8 +20,5 @@ https://youtu.be/jkLQ3H7Q478
 
 https://youtu.be/2SAMeHujHKA
 
-https://youtu.be/muq5BUEIa7g
-
-
-
+https://youtu.be/muq5BUEIa7g<br /><br /><br /><br />
 Image and video copyright belongs to https://opencv.org/
